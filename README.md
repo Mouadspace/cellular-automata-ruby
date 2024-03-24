@@ -12,6 +12,6 @@ $ ruby gol.rb
 ```
 
 <div align="center">
-  <img width="550" src="https://github.com/Mouadspace/cellular-automata-ruby/assets/121675898/2f52e673-e981-4823-9445-9ef21d755977"/>
-  <img width="550" src="https://github.com/Mouadspace/cellular-automata-ruby/assets/121675898/9b87c0b6-d123-4de1-a772-b7edf7524d66"/>
+  <img width="550" src="demo/conway-gof.gif"/>
+  <img width="550" src="demo/conway-gof-emojis.gif"/>
 </div>

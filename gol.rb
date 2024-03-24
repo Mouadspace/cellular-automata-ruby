@@ -1,10 +1,10 @@
 
-ROWS  = 30 
-COLS  = 50 
+ROWS  = 20 
+COLS  = 30 
 SLEEP = 0.1
 
-LIVE_IMG = "$"
-DEAD_IMG = "_"
+LIVE_IMG = "😋"
+DEAD_IMG = "🫥"
 
 class Cell 
   LIVE = :LIVE #  'LIVE_IMG'
@@ -26,7 +26,7 @@ class Grid
       @cols.times do |j| 
         # initialize random dead and live cells on the grid  
         rand = rand 10 
-        @cells.push rand % 10 == 0 ? Cell::LIVE : Cell::DEAD 
+        @cells.push rand % 5 == 0 ? Cell::LIVE : Cell::DEAD 
       end
     end 
   end
