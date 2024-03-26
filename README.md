@@ -14,4 +14,5 @@ $ ruby gol.rb
 <div align="center">
   <img width="550" src="demo/conway-gof.gif"/>
   <img width="550" src="demo/conway-gof-emojis.gif"/>
+  <img width="550" src="demo/rule-110.gif"/>
 </div>
