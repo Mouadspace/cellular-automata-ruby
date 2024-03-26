@@ -10,9 +10,15 @@ Collection of implementations for [cellular automata](https://en.wikipedia.org/w
 ```console
 $ ruby gol.rb
 ```
-
 <div align="center">
   <img width="550" src="demo/conway-gof.gif"/>
   <img width="550" src="demo/conway-gof-emojis.gif"/>
+</div>
+
+## [Rule 110](https://en.wikipedia.org/wiki/Rule_110)
+```console
+$ ruby rule110.rb
+```
+<div align="center">
   <img width="550" src="demo/rule-110.gif"/>
 </div>
